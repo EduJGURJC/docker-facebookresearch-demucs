@@ -2,7 +2,7 @@
 This repository only includes a Dockerfile to create a working Docker image of the [Facebookresearch Demucs tool](https://github.com/facebookresearch/demucs)
 
 ## How to build the docker image
-There is already a built image in my DockerHub repository, but you can build it yourself if you want.
+There is already a built image in [my DockerHub repository](https://hub.docker.com/repository/docker/edujg/facebookresearch-demucs), but you can build it yourself if you want.
 
 1. Clone this repository:
     `git clone edujgurjc/docker-facebookresearch-demucs`
